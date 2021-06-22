@@ -1,0 +1,16 @@
+PODS:
+  - MyFirstLibraryLab (0.1.0)
+
+DEPENDENCIES:
+  - MyFirstLibraryLab (from `../`)
+
+EXTERNAL SOURCES:
+  MyFirstLibraryLab:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MyFirstLibraryLab: 528234bdb783047f9a64915a8ff7356d5ec58f77
+
+PODFILE CHECKSUM: bfda81cd66e1f8b9fb1139ebbf4faa090e412f9e
+
+COCOAPODS: 1.10.1
